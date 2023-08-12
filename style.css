@@ -1,0 +1,15 @@
+.heading{
+    border-style: solid;
+    background-color: rgb(160, 243, 222);
+  
+    border-width: 5px;
+}
+.body{
+    background-color: rgb(167, 208, 255);
+}
+.label{
+    color:rgb(137, 199, 45);
+    border-radius: 10px;
+
+   
+}
